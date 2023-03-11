@@ -19,6 +19,7 @@ let laterYears = myAge - 2;
   console.log(earlyYears);
   console.log(laterYears);
 
+
 //takes our earlyYears ad laterYears totals and 
 //outputs a total age in dog years
 const myAgeInDogYears = earlyYears + laterYears;
