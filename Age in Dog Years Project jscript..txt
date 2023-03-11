@@ -1,0 +1,29 @@
+Thsi folder used to be called Kahn Academy
+
+Codecademy Intro to Javascript 
+Age in Dog YEars project.
+
+
+
+// const variable whch holds age.
+const myAge = 10;
+// create reassignable variable which holds
+// early years of dog
+let earlyYears = 2;
+  earlyYears *= 10.5;
+// later years of Dog held in reassignable variable
+let laterYears = myAge - 2;
+//calculates laterYears in Dog years
+  laterYears *= 4;
+
+  console.log(earlyYears);
+  console.log(laterYears);
+
+//takes our earlyYears ad laterYears totals and 
+//outputs a total age in dog years
+const myAgeInDogYears = earlyYears + laterYears;
+// logging a myName variable to the console.
+const myName = "Stephen".toLowerCase();
+console.log(myName);
+//console output statement to finish project.
+console.log(`My name is ${myName}. I am ${myAge} years old in human years which is ${myAgeInDogYears} years old in dog years.`)
