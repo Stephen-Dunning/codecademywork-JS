@@ -1,0 +1,16 @@
+IN this example, the value Sale is set to faslse sso that the else block will operate.
+
+The conditional statement for an if else is always a boolean...... so we only have to test for falsey
+or truthiness..... it is not anassignment operator like + or *, it is a bolean, yes/no test....
+
+
+
+let sale = true;
+
+sale = false;
+
+if(sale) {
+  console.log('Time to buy!');
+} else {
+  console.log('Time to wait for a sale.');
+}
