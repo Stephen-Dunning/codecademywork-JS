@@ -2,3 +2,6 @@ Javascript Race Day project = atleast I made a start.
 
 let raceNumber = Math.floor(Math.random() * 1000);
 let it be a reminder to you not to waste time...
+
+
+Focus on this one the moment you get a chance.
